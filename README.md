@@ -4,7 +4,7 @@ This project was a group project in which we used a combination of pair programm
 Handlebars, Node, and Javascript. 
 
 
-# How to run?
+## How to run?
 
 - npm install (to install moduels) 
 - npm start (Hosts on port 3000)
